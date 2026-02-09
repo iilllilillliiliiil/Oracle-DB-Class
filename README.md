@@ -17,7 +17,7 @@
 * Database : Oracle DB
 * Tool : Eclipse
 
-# 핵심 구현 내용
+# 핵심 기능
 * 객체 지향 설계 : User 클래스를 상속받아 Student, Professor, Admin을 구현하여 코드 재사용성 높임.
 * 유효성 검사 : TimeUtil.java를 통해 수강신청 시 과목 간 시간표 겹침 현상을 방지하는 알고리즘 구현.
 * 데이터 관리 : .txt 파일(또는 DB)을 활용한 데이터 영속성 관리 및 입출력 로직 작성.
